@@ -846,6 +846,7 @@ vendor/apex/com.google.android.widevine.nonupdatable.apex
 vendor/etc/vintf/manifest/android.hardware.drm-service.xml
 vendor/etc/oplus_Widevine_licenses.pfm
 vendor/lib64/libcpion.so
+odm/lib64/liboemcrypto.so
 
 # WiFi
 vendor/bin/cnss-daemon
